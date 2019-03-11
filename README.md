@@ -1,6 +1,10 @@
 # Train-Problems
 Python Trains Problems test. 
 
+
+You must picture a graph. Use the following links for ideas. https://www.tutorialspoint.com/python/python_graphs.htm  or https://www.python-course.eu/graphs_python.php
+
+
 Many towns in Kiwiland use a railroad service and they need information about the routes. 
 
 The edge represent the distance between 2 towns.
